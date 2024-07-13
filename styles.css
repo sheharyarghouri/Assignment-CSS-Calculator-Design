@@ -1,0 +1,124 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2023/06/08/08/27/plant-8049076_1280.jpg);
+    max-width: 100%;
+    min-width: 320px;
+    min-height: 300px;
+    max-height: 100%;
+    background-size: cover; 
+}
+
+
+.main {
+    max-width: 27%;
+    min-width: 27vw;
+    background-color: black;
+    margin: 0% auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+    border-radius: 5%;
+    max-height: 100%;
+    min-height: 90vh;
+    
+}
+
+
+
+.welcome {
+    background-color: #fff;
+    color: black;
+    border-radius: 15%;
+    max-width: 25vw;
+    min-width: 25vw;
+    max-height: 6vh;
+    min-height: 6vh;
+    border: 1px solid black;
+    margin: 0%;
+    padding: 3%;
+    text-align: center;
+}
+
+
+.welcome p {
+    display: inline;
+    font-family: sans-serif;
+    font-weight: 549;
+    font-size: xx-large;
+    
+    
+}
+
+
+.display {
+    color: white;
+    display: inline;
+    
+}
+
+
+input {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 1%;
+    font-size: 40px;
+    float: right;
+    background-color: black;
+    width: 300px;
+    float: right;
+    border-style: none;
+    text-align: right;
+    display: block;
+    margin-right: 10%;
+}
+
+
+.buttons {
+    font-size: 50px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+.row {
+    padding: 2%;
+    margin-left: 0%;
+    margin-right: 0%;
+    display: block;
+    
+}
+
+
+.item-light{
+    display: inline-block;
+    color: black;
+    background-color: rgb(154,154,154);
+    padding: 7%;
+    border-radius: 60%;
+    font-size: large;
+}
+
+
+.item {
+    display: inline-block;
+    color: white;
+    background-color:rgb(47,47,47);
+    padding: 7%;
+    border-radius: 60%;
+    font-size: x-large;
+}
+
+
+.item-orange {
+    color: white;
+    background-color: rgb(238,148,8);
+    display: inline-block;
+    padding: 7%;
+    border-radius: 60%;
+    font-size: x-large;
+}
