@@ -25,9 +25,7 @@ body {
     border-radius: 5%;
     max-height: 1500px;
     min-height: 444px;
-
 }
-
 
 
 .welcome {
@@ -42,25 +40,20 @@ body {
     margin: 1%;
     padding: 2%;
     text-align: center;
-
 }
 
 
 .welcome p {
     margin-top: 3%;
-
     font-family: sans-serif;
     font-weight: 550;
     font-size: larger;
-
-
 }
 
 
 .display {
     color: white;
     display: inline;
-
 }
 
 
@@ -94,7 +87,6 @@ input {
     margin-left: 0%;
     margin-right: 0%;
     display: block;
-
 }
 
 
