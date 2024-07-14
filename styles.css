@@ -15,7 +15,7 @@ body {
 
 
 .main {
-    max-width: 300px;
+    max-width: 340px;
     min-width: 300px;
     background-color: black;
     margin: 0% auto;
@@ -33,20 +33,20 @@ body {
 .welcome {
     background-color: #fff;
     color: black;
-    border-radius: 15%;
-    max-width: 250px;
+    border-radius: 12%;
+    max-width: 322px;
     min-width: 275px;
     max-height: 100px;
-    min-height: 60px;
+    min-height: 25px;
     border: 1px solid black;
     margin: 0%;
-    padding: 3%;
-    text-align: center;
+    padding: 2%;
+    
 }
 
 
 .welcome p {
-    display: inline;
+    
     font-family: sans-serif;
     font-weight: 549;
     font-size: xx-large;
