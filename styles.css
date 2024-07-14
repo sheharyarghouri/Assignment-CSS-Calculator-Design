@@ -10,7 +10,7 @@ body {
     min-width: 32px;
     min-height: 50px;
     max-height: 100px;
-    background-size: cover; 
+    background-size: cover;
 }
 
 
@@ -19,13 +19,13 @@ body {
     min-width: 300px;
     background-color: black;
     margin: 0% auto;
-    margin-top: 1%;
+    margin-top: 2%;
     margin-bottom: 1%;
     padding: 1%;
     border-radius: 5%;
     max-height: 1500px;
     min-height: 550px;
-    
+
 }
 
 
@@ -50,15 +50,15 @@ body {
     font-family: sans-serif;
     font-weight: 549;
     font-size: xx-large;
-    
-    
+
+
 }
 
 
 .display {
     color: white;
     display: inline;
-    
+
 }
 
 
@@ -91,14 +91,14 @@ input {
     margin-left: 0%;
     margin-right: 0%;
     display: block;
-    
+
 }
 
 
-.item-light{
+.item-light {
     display: inline-block;
     color: black;
-    background-color: rgb(154,154,154);
+    background-color: rgb(154, 154, 154);
     padding: 6%;
     border-radius: 70%;
     font-size: large;
@@ -108,7 +108,7 @@ input {
 .item {
     display: inline-block;
     color: white;
-    background-color:rgb(47,47,47);
+    background-color: rgb(47, 47, 47);
     padding: 7%;
     border-radius: 60%;
     font-size: x-large;
@@ -117,7 +117,7 @@ input {
 
 .item-orange {
     color: white;
-    background-color: rgb(238,148,8);
+    background-color: rgb(238, 148, 8);
     display: inline-block;
     padding: 7%;
     border-radius: 60%;
