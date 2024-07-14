@@ -15,16 +15,16 @@ body {
 
 
 .main {
-    max-width: 340px;
-    min-width: 300px;
+    max-width: 230px;
+    min-width: 150px;
     background-color: black;
     margin: 0% auto;
-    margin-top: 2%;
+    margin-top: 5%;
     margin-bottom: 1%;
     padding: 1%;
     border-radius: 5%;
     max-height: 1500px;
-    min-height: 550px;
+    min-height: 444px;
 
 }
 
@@ -34,22 +34,24 @@ body {
     background-color: #fff;
     color: black;
     border-radius: 12%;
-    max-width: 322px;
-    min-width: 275px;
-    max-height: 100px;
-    min-height: 25px;
+    max-width: 250px;
+    min-width: 1px;
+    max-height: 40px;
+    min-height: 1px;
     border: 1px solid black;
-    margin: 0%;
+    margin: 1%;
     padding: 2%;
+    text-align: center;
     
 }
 
 
 .welcome p {
+    margin-top: 3%;
     
     font-family: sans-serif;
-    font-weight: 549;
-    font-size: xx-large;
+    font-weight: 550;
+    font-size: larger;
 
 
 }
@@ -69,7 +71,7 @@ input {
     font-size: 40px;
     float: right;
     background-color: black;
-    width: 250px;
+    width: 200px;
     float: right;
     border-style: none;
     text-align: right;
@@ -80,9 +82,10 @@ input {
 
 
 .buttons {
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
     font-family: sans-serif;
+    margin-top: 20%;
 }
 
 
@@ -99,7 +102,7 @@ input {
     display: inline-block;
     color: black;
     background-color: rgb(154, 154, 154);
-    padding: 6%;
+    padding: 5%;
     border-radius: 70%;
     font-size: large;
 }
@@ -109,8 +112,8 @@ input {
     display: inline-block;
     color: white;
     background-color: rgb(47, 47, 47);
-    padding: 7%;
-    border-radius: 60%;
+    padding: 6%;
+    border-radius: 65%;
     font-size: x-large;
 }
 
@@ -119,7 +122,7 @@ input {
     color: white;
     background-color: rgb(238, 148, 8);
     display: inline-block;
-    padding: 7%;
-    border-radius: 60%;
+    padding: 6%;
+    border-radius: 65%;
     font-size: x-large;
 }
